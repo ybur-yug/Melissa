@@ -148,6 +148,10 @@ and mock objects will be used in test and development.
 * Bugs: <http://github.com/smarinskaya/Melissa/issues>
 * Gems: TODO
 
+### Smart Web API Integration
+This library does not integrate with the REST API's offered by Melissa, but to begin working with those rather than
+the FFI pieces in this library. A gem for API integration called [melissa_data](https://github.com/cometaworks/melissa_data) is also available. 
+
 
 ## Authors
 
@@ -155,7 +159,7 @@ and mock objects will be used in test and development.
 2. [Svetlana Marinskaya](https://github.com/smarinskaya)
 
 
-##Aknowlegments
+## Aknowlegments
 
 Configuration pattern is developed based on Brandon Hilkert blog
 http://brandonhilkert.com/blog/ruby-gem-configuration-patterns/
